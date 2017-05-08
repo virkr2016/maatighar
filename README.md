@@ -1,4 +1,4 @@
-# tribalcart
-Temporary Website for TribalCart
+# maatighar
+Temporary Website for MaatiGhar
 
-It's a static temporary website for branding of a tribal art business named TribalCart.
+It's a static temporary website for branding of a tribal art business named MaatiGhar.
